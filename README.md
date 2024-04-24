@@ -87,3 +87,7 @@ To run tests, execute the following command:
 ```bash
 npm run test
 ```
+
+### Deployed version
+
+The main branch is deployed on Vercel and available at this address: https://reprisk-map.vercel.app
